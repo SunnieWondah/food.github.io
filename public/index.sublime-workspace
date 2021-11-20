@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ui",
+		"selected_items":
+		[
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SUNNY/Desktop/html/Web Development/HTML- Personal Website/index.html",
+		"/C/Users/SUNNY/Desktop/My Projects/Web Development/HTML- Personal Website/index2.html",
+		"/D/Tuts/Beginner/GetFreeCourses.Co-Udemy-The Complete 2020 Web Development Bootcamp/4. Introduction to CSS/6. How to Debug CSS Code.srt",
+		"/D/Revit 2018.zip",
+		"/C/Users/SUNNY/Desktop/html/Web Development/HTML- Personal Website/hobbies.html",
+		"/C/Users/SUNNY/Desktop/html/Web Development/HTML- Personal Website/contact.html",
+		"/C/Users/SUNNY/Desktop/html/Web Development/HTML- Personal Website/wondah.html",
+		"/C/Users/SUNNY/Desktop/html/Codeplaybook.html",
+		"/C/Users/SUNNY/Desktop/html/index.html",
+		"/C/Users/SUNNY/Downloads/Over-Project black Friday 4.png",
+		"/C/Users/SUNNY/Desktop/html/Code playbook",
+		"/C/Users/SUNNY/Desktop/service.html",
+		"/C/Users/SUNNY/Desktop/index.html",
+		"/C/Users/SUNNY/Downloads/JavaSetup [1].exe",
+		"/C/Users/SUNNY/Downloads/Physics Syllabus from JAMB - Myschool.html",
+		"/C/Users/SUNNY/Downloads/d1.jpg",
+		"/C/Users/SUNNY/Downloads/JavaSetup.exe"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
